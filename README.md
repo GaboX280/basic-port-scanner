@@ -1,15 +1,20 @@
 # basic-port-scanner
-Port scanner básico en Python con fines educativos para aprender redes y sockets, ademàs de TCP/IP.
 
-Este proyecto fue hecho con fines educativos para que la persona interesada pueda analizar el codigo de tal manera que pueda aprender el funcionamiento basico de herammientas de escaneo de puertos para conocer su estado actualmente
+A basic Python port scanner created for educational purposes. It introduces networking concepts, sockets, and TCP/IP.
 
-## Tecnologias empleadas ##
-Python
-Sockets
+This project is intended to help readers understand how basic port-scanning tools work and how they determine the current state of ports.
 
-## Advertencia ##
-Esta herramienta solo debe ser usada sobre sus propios equipos y redes.
+## Technologies
 
-## Uso ##
+- Python
+- Sockets
+
+## Disclaimer
+
+Use this tool only on systems and networks you own or have explicit authorization to test.
+
+## Usage
+
 ```bash
 python scanner.py
+```
